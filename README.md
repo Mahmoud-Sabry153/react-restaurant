@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-live link below
+live link of this project below
 https://g-restaurant.lovestoblog.com/?i=1
 
 
